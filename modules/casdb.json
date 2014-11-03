@@ -1,0 +1,6 @@
+{
+    "host"      :  "localhost",
+    "userid"    :  "cassandra",
+    "password"  :  "cassandra",
+    "keyspace"  :  "mykeyspace"
+}
